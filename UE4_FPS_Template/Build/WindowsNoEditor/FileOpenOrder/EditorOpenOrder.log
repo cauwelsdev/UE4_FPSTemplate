@@ -1,0 +1,1387 @@
+"C:/P4_Helix/BlueprintScripting/BlueprintScripting.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 3
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 4
+"../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 7
+"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 8
+"../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin" 9
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 10
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 11
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 12
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 13
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 14
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 15
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 16
+"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 17
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 18
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 19
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 20
+"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 21
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 22
+"../../../Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin" 23
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 24
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 25
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 26
+"../../../Engine/Plugins/Experimental/StructBox/StructBox.uplugin" 27
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 28
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 29
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 30
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 31
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 32
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 33
+"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 34
+"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 35
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 36
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 37
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 38
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 39
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 40
+"../../../Engine/Plugins/Runtime/Analytics/Flurry/IOSFlurry/IOSFlurry.uplugin" 41
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 42
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 43
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 44
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin" 45
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 46
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 47
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 48
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 49
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 50
+"../../../Engine/Plugins/Runtime/LeapMotionController/LeapMotionController.uplugin" 51
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 52
+"../../../Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin" 53
+"../../../Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin" 54
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 55
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 56
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 57
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 58
+"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 59
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin" 60
+"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 61
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 62
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 63
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 64
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 65
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 66
+"..\..\..\Engine\Content\Internationalization\icudt53l\cnvalias.icu" 67
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US_POSIX.res" 68
+"..\..\..\Engine\Content\Internationalization\icudt53l\pool.res" 69
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US.res" 70
+"..\..\..\Engine\Content\Internationalization\icudt53l\en.res" 71
+"..\..\..\Engine\Content\Internationalization\icudt53l\root.res" 72
+"C:/Users/Chris/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/Manifest.ini" 73
+"../../../Engine/Config/Base.ini" 74
+"../../../Engine/Config/BaseEngine.ini" 75
+"C:/P4_Helix/BlueprintScripting/Config/DefaultEngine.ini" 76
+"../../../Engine/Config/Windows/WindowsEngine.ini" 77
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/Engine.ini" 78
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 79
+"../../../Engine/Config/BaseGame.ini" 80
+"C:/P4_Helix/BlueprintScripting/Config/DefaultGame.ini" 81
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/Game.ini" 82
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 83
+"../../../Engine/Config/BaseInput.ini" 84
+"C:/P4_Helix/BlueprintScripting/Config/DefaultInput.ini" 85
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/Input.ini" 86
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 87
+"../../../Engine/Config/BaseEditor.ini" 88
+"C:/P4_Helix/BlueprintScripting/Config/DefaultEditor.ini" 89
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/Editor.ini" 90
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 91
+"../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 92
+"C:/P4_Helix/BlueprintScripting/Config/DefaultEditorPerProjectUserSettings.ini" 93
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 94
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 95
+"../../../Engine/Config/BaseEditorSettings.ini" 96
+"C:/Users/Chris/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorSettings.ini" 97
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 98
+"../../../Engine/Config/BaseEditorLayout.ini" 99
+"C:/Users/Chris/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorLayout.ini" 100
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 101
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 102
+"C:/Users/Chris/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/EditorKeyBindings.ini" 103
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 104
+"../../../Engine/Config/BaseCompat.ini" 105
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/Compat.ini" 106
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 107
+"../../../Engine/Config/BaseLightmass.ini" 108
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/Lightmass.ini" 109
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 110
+"../../../Engine/Config/BaseScalability.ini" 111
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/Scalability.ini" 112
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 113
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/GameUserSettings.ini" 114
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 115
+"../../../Engine/Config/BaseDeviceProfiles.ini" 116
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/DeviceProfiles.ini" 117
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 118
+"../../../Engine/Config/ConsoleVariables.ini" 119
+"..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 120
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 121
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko.res" 122
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt_BR.res" 123
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt.res" 124
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_CN.res" 125
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans_CN.res" 126
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans.res" 127
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh.res" 128
+"C:/Epic Games/4.9/Engine/Content/Localization/Editor/en/Editor.locres" 129
+"C:/Epic Games/4.9/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 130
+"C:/Epic Games/4.9/Engine/Content/Localization/Keywords/en/Keywords.locres" 131
+"C:/Epic Games/4.9/Engine/Content/Localization/Category/en/Category.locres" 132
+"C:/Epic Games/4.9/Engine/Content/Localization/ToolTips/en/ToolTips.locres" 133
+"C:/Epic Games/4.9/Engine/Content/Localization/PropertyNames/en/PropertyNames.locres" 134
+"C:/Epic Games/4.9/Engine/Content/Localization/Engine/en/Engine.locres" 135
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 136
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 137
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 138
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 139
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 140
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 141
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 142
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MetalCommon.usf" 143
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 144
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CommonViewUniformBuffer.usf" 145
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 146
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 147
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 148
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 149
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 150
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 151
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 152
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 153
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 154
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 155
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 156
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 157
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 158
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrectionCommon.usf" 159
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 160
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 161
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceFieldShared.usf" 162
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 163
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 164
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PaniniProjection.usf" 165
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/EyeAdaptationCommon.usf" 166
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 167
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 168
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 169
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 170
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 171
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 172
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 173
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 174
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 175
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 176
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 177
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 178
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 179
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 180
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 181
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 182
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 183
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 184
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 185
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 186
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 187
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 188
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 189
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeGrassWeight.usf" 190
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 191
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 192
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 193
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 194
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceRayCast.usf" 195
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 196
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 197
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 198
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 199
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 200
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ACES.usf" 201
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 202
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 203
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 204
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 205
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 206
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 207
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 208
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 209
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 210
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 211
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 212
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 213
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 214
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FastMath.usf" 215
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVelocityFlatten.usf" 216
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MorpheusInclude.usf" 217
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 218
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 219
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 220
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 221
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 222
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 223
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 224
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 225
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHierarchical.usf" 226
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 227
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 228
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 229
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 230
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 231
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 232
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCircleDOF.usf" 233
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CircleDOFCommon.usf" 234
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 235
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 236
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeDOF.usf" 237
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 238
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 239
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 240
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 241
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 242
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 243
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadingModels.usf" 244
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 245
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 246
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 247
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 248
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 249
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 250
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 251
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityCommon.usf" 252
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 253
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 254
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 255
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 256
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 257
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 258
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 259
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 260
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 261
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 262
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 263
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelTree.usf" 264
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 265
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelMaterialShared.usf" 266
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 267
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 268
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 269
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 270
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 271
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 272
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 273
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 274
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 275
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 276
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 277
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 278
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 279
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 280
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 281
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 282
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 283
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 284
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 285
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 286
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 287
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 288
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 289
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 290
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 291
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 292
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 293
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPacking.usf" 294
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 295
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LpvDirectionalOcclusion.usf" 296
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 297
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 298
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 299
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 300
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 301
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 302
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 303
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightfieldLighting.usf" 304
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowingShared.usf" 305
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 306
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 307
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceField.usf" 308
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 309
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 310
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 311
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 312
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 313
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 314
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 315
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 316
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 317
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 318
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 319
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 320
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 321
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 322
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 323
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldScreenGridLighting.usf" 324
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingPost.usf" 325
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldGlobalIllumination.usf" 326
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 327
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 328
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 329
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 330
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/EvaluateSurfelMaterial.usf" 331
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ConvertToUniformMesh.usf" 332
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 333
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 334
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ForEachLight.usf" 335
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 336
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 337
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 338
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 339
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 340
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 341
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 342
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 343
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 344
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 345
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MediaShaders.usf" 346
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 347
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 348
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 349
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 350
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 351
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 352
+"C:/Epic Games/4.9/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 353
+"../../../Engine/Config/Android/AndroidEngine.ini" 354
+"../../../Engine/Config/IOS/IOSEngine.ini" 355
+"../../../Engine/Config/Linux/LinuxEngine.ini" 356
+"C:/Users/Chris/AppData/Local/UnrealEngine/4.9/DerivedDataCache/Boot.ddc" 357
+"../../../Engine/DerivedDataCache/Compressed.ddp" 358
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 359
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 360
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 362
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 365
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 367
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 368
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 370
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 372
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 373
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 374
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 375
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 376
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 377
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 378
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 379
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 380
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 381
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/TemplateDefs.ini" 382
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 383
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/GameplayTags.ini" 384
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 385
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 386
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 387
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 388
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 389
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 390
+"..\..\..\Engine\Content\Internationalization\icudt53l\numberingSystems.res" 391
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\supplementalData.res" 392
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pool.res" 393
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en.res" 394
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\root.res" 395
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 396
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 397
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 398
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 399
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 400
+"../../../Engine/Content/EngineResources/Black.uasset" 401
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 402
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 403
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 404
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 405
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 406
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 407
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 408
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 409
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 410
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 411
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 412
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 413
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 414
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 415
+"../../../Engine/Content/EngineSounds/Master.uasset" 416
+"../../../Engine/Content/EngineSounds/Music.uasset" 417
+"../../../Engine/Content/EngineSounds/SFX.uasset" 418
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 419
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 420
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 421
+"../../../Engine/Content/EngineSounds/Voice.uasset" 422
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 423
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 424
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 425
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 426
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 427
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 428
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 429
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 430
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 431
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ucadata.icu" 432
+"..\..\..\Engine\Content\Internationalization\icudt53l\nfc.nrm" 433
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US.res" 434
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en.res" 435
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\root.res" 436
+"../../../Engine/Content/EngineResources/AICON-Red.uasset" 437
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 438
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 439
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 440
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 441
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 442
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 443
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 444
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 445
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 446
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 447
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 448
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 449
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 450
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 451
+"C:/Users/Chris/AppData/Local/UnrealEngine/4.9/Saved/Config/Windows/SourceControlSettings.ini" 452
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 453
+"C:/P4_Helix/BlueprintScripting/Saved/Config/Windows/SourceControlSettings.ini" 454
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 455
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 456
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 457
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset" 458
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_SampleDistortion.uasset" 459
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TestTexture.uasset" 460
+"../../../Engine/Content/BasicShapes/Cube.uasset" 461
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 462
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 463
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 464
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 465
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 466
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 467
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 468
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 469
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 470
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 471
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 472
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 473
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 474
+"../../../../../P4_Helix/BlueprintScripting/Intermediate/CachedAssetRegistry.bin" 475
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" 476
+"C:/P4_Helix/BlueprintScripting/Saved/Cooked/WindowsNoEditor/BlueprintScripting/CookedIniVersion.txt" 477
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 478
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 479
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 480
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 481
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 482
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 483
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 484
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 485
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 486
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 487
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 488
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 489
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 490
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 491
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 492
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 493
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 494
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Meshes/BaseMaterial.uasset" 495
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Blueprints/SaveSystem.uasset" 496
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 497
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 498
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 499
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 500
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 501
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 502
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 503
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 504
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 505
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 506
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 507
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 508
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 509
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 510
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 511
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 512
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 513
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 514
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 515
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 516
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 517
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 518
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 519
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 520
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 521
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 522
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 523
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 524
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 525
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 526
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 527
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/UI/HUD.uasset" 528
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/UI/LoseMenu.uasset" 529
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/UI/PauseMenu.uasset" 530
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/UI/RoundTransition.uasset" 531
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 532
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 533
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C418824E4EA51B7ABCD164BCEEBBFBB__02FD0742DF20FAEDB6B6FB9500594A1EDA8BE59C.udd" 534
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_C418824E4EA51B7AB__369545BFB03A089F176AE1871AF20CCFA46A288B.udd" 535
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 536
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 537
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 538
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 539
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 540
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 541
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 542
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 543
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 544
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 545
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 546
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 547
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 548
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 549
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 550
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 551
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 552
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 553
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 554
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 555
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 556
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 557
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 558
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 559
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 560
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 561
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 562
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 563
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 564
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 565
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 566
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 567
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 568
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 569
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 570
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 571
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 572
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 573
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 574
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 575
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 576
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 577
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 578
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 579
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 580
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 581
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 582
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 583
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 584
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 585
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 586
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 587
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 588
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorTutorial.uasset" 589
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 590
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 591
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 592
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 593
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 594
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 595
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 596
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 597
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 598
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 599
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 600
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 601
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 602
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 603
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 604
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 605
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 606
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 607
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 608
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 609
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 610
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 611
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 612
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/EnemyCharacter.uasset" 613
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Ue4ASP_Character.uasset" 614
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 615
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 616
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 617
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 618
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Jump_From_Jog.uasset" 619
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Jump_From_Stand.uasset" 620
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/BS_CrouchWalk.uasset" 621
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 622
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 623
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 624
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 625
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/BS_Jog.uasset" 626
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 627
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 628
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 629
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 630
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 631
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 632
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 633
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 634
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 635
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 636
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 637
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 638
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 639
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 640
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 641
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 642
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 643
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 644
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 645
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 646
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 647
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 648
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/EnemyController.uasset" 649
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/EnemyBehavior.uasset" 650
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/EnemyBlackboard.uasset" 651
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/DoAttackTask.uasset" 652
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/FindWanderPointTask.uasset" 653
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/ResetBoolTask.uasset" 654
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/ResetValueTask.uasset" 655
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Materials/TargetRed.uasset" 656
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Explosion01.uasset" 657
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/P_Explosion.uasset" 658
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_Burst.uasset" 659
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Burst_M.uasset" 660
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 661
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 662
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 663
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 664
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 665
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 666
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 667
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 668
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/8/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF702B8A90__445B7B9FC5F605546BA40076C757A46A97630D14.udd" 669
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/1/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF702B8A90__538941850F13E9F03BADF8DA39DBFA99ED507AC0.udd" 670
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUFEDA814F6__0C4904DE4A60664243F35F0F41872B9D1DEAA033.udd" 671
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/6/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUFEDA814F6__8EAFC8754C551CE71F1CCC70BC824AD18BE8A2AD.udd" 672
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/3/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF702B8A90__2A780F1A434986FAD4CB8CF362D274BF26EC0AB6.udd" 673
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/7/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF702B8A90__6E95B872EBB62C35F5D40418044A5F447EE73081.udd" 674
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___80EA579238390FE84E9DA8C0404EAA6F38BE3EDF.udd" 675
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___51820BF7125BC8ADA73F67F35EEE471566599C1A.udd" 676
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___6DB7AC949E1E15073B690EBB0292D4984ABB9E89.udd" 677
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___4F51C2A2CBEFD6FAD8D67D833C52AC0EDE6CE636.udd" 678
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___C993D6B0463E5BE22A6312F1E8C1F367EF962063.udd" 679
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___456B2D34C009323539A89D242D676582440757CA.udd" 680
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Blueprints/EnemySpawner.uasset" 681
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/EnemySpawner.uasset" 682
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Blueprints/CylinderTarget_Blueprint.uasset" 683
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 684
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 685
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/Blueprints/AmmoPickup.uasset" 686
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_Door.uasset" 687
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Door_M.uasset" 688
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Door_N.uasset" 689
+"../../../Engine/Content/EditorSounds/GamePreview/PossessPlayer.uasset" 690
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Pipe.uasset" 691
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Basic_Wall.uasset" 692
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPersonBP/FirstPersonOverview.uasset" 693
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 694
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 695
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 696
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 697
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 698
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 699
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_MacroVariation.uasset" 700
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 701
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Ground_Grass.uasset" 702
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 703
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 704
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Glass.uasset" 705
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 706
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 707
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 708
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 709
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 710
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 711
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 712
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 713
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 714
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 715
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 716
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 717
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 718
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 719
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 720
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 721
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 722
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 723
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 724
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Gradinet_01.uasset" 725
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 726
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 727
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 728
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 729
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 730
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 731
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 732
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 733
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 734
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 735
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 736
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 737
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 738
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 739
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 740
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 741
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 742
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 743
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 744
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 745
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 746
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 747
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 748
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 749
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 750
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 751
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 752
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 753
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 754
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 755
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Basic_Floor.uasset" 756
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_AssetPlatform.uasset" 757
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 758
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Steam01.uasset" 759
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Starter_Wind06.uasset" 760
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Starter_Wind05.uasset" 761
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 762
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Starter_Music01.uasset" 763
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Starter_Birds01.uasset" 764
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 765
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Smoke01_Cue.uasset" 766
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Smoke01.uasset" 767
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Light02_Cue.uasset" 768
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Light02.uasset" 769
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Light01_Cue.uasset" 770
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Light01.uasset" 771
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 772
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Fire_Sparks01.uasset" 773
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Fire01_Cue.uasset" 774
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Fire01.uasset" 775
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Explosion_Cue.uasset" 776
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Explosion02.uasset" 777
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Collapse_Cue.uasset" 778
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Collapse01.uasset" 779
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Collapse02.uasset" 780
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 781
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 782
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 783
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 784
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Wall_500x500.uasset" 785
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Wall_400x400.uasset" 786
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Wall_400x300.uasset" 787
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Wall_400x200.uasset" 788
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 789
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Pillar_50x500.uasset" 790
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Architecture/Floor_400x400.uasset" 791
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_1FCF16274DEBA91853A6B294780A015__A4A4DC8A0F77C27B1192B4345F18A5A50434DBE2.udd" 792
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_1FCF16274DEBA9185__5247D8DD58EC029AF813D0BEBF67AB5742F2FEFE.udd" 793
+"../../../../../P4_Helix/BlueprintScripting/Content/Geometry/Meshes/TemplateFloor.uasset" 794
+"../../../../../P4_Helix/BlueprintScripting/Content/Geometry/Meshes/CubeMaterial.uasset" 795
+"../../../../../P4_Helix/BlueprintScripting/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 796
+"../../../../../P4_Helix/BlueprintScripting/Content/Geometry/Meshes/1M_Cube.uasset" 797
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 798
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 799
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 800
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Idle_Pistol.uasset" 801
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Hit_React_4.uasset" 802
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Hit_React_3.uasset" 803
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Hit_React_2.uasset" 804
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Hit_React_1.uasset" 805
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 806
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 807
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 808
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 809
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 810
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 811
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Death_Ironsights_2.uasset" 812
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Death_Ironsights_1.uasset" 813
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Death_3.uasset" 814
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Death_2.uasset" 815
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Death_1.uasset" 816
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 817
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 818
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 819
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 820
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 821
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 822
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 823
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 824
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Aim_Space_Hip.uasset" 825
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 826
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 827
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 828
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 829
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 830
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Tube.uasset" 831
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 832
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 833
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 834
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Trim.uasset" 835
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Torus.uasset" 836
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Sphere.uasset" 837
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 838
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Plane.uasset" 839
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 840
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 841
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 842
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 843
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Cube.uasset" 844
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Shapes/Shape_Cone.uasset" 845
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_TableRound.uasset" 846
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_TableRound_M.uasset" 847
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_TableRound_N.uasset" 848
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 849
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Statue_M.uasset" 850
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Statue_N.uasset" 851
+"C:/P4_Helix/BlueprintScripting/Intermediate/Shaders/tmp/2444AC5D4869E0BFEF59F2B2A2A76C7A/0/WorkerOutputOnly.out" 852
+"C:/P4_Helix/BlueprintScripting/Intermediate/Shaders/tmp/2444AC5D4869E0BFEF59F2B2A2A76C7A/1/WorkerOutputOnly.out" 853
+"C:/P4_Helix/BlueprintScripting/Intermediate/Shaders/tmp/2444AC5D4869E0BFEF59F2B2A2A76C7A/2/WorkerOutputOnly.out" 854
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_Rock.uasset" 855
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 856
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_RockMesh_M.uasset" 857
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_RockMesh_N.uasset" 858
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 859
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 860
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_Lamp.uasset" 861
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Lamp_M.uasset" 862
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Lamp_N.uasset" 863
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_Frame.uasset" 864
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Frame_M.uasset" 865
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Frame_N.uasset" 866
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_Chair.uasset" 867
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Chair_M.uasset" 868
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Chair_N.uasset" 869
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_Bush.uasset" 870
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Bush_D.uasset" 871
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Bush_N.uasset" 872
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_WindowFrame.uasset" 873
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_TableRound.uasset" 874
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Statue.uasset" 875
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_Statue.uasset" 876
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Stairs.uasset" 877
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Shelf.uasset" 878
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/Materials/M_Shelf.uasset" 879
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Shelf_M.uasset" 880
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Shelf_N.uasset" 881
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Rock.uasset" 882
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_PillarFrame300.uasset" 883
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_PillarFrame.uasset" 884
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 885
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 886
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 887
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_GlassWindow.uasset" 888
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_DoorFrame.uasset" 889
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Door.uasset" 890
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Couch.uasset" 891
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_CornerFrame.uasset" 892
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Chair.uasset" 893
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/SM_Bush.uasset" 894
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Props/MaterialSphere.uasset" 895
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_Spark.uasset" 896
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Spark_Core.uasset" 897
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 898
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 899
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Water_N.uasset" 900
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 901
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 902
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 903
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 904
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 905
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/P_Steam_Lit.uasset" 906
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_StartJump.uasset" 907
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_LoopJump.uasset" 908
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Animations/FirstPerson_EndJump.uasset" 909
+"../../../../../P4_Helix/BlueprintScripting/Content/Enemy/nemyBehavior.uasset" 910
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__93845248A2460ABD9CDA725D208F9D2A999EFE3B.udd" 911
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__578A3FD72584C4806261DC17F1DF5E7FC4C10C5C.udd" 912
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__5E4E6EC09C4BDE5D54B3885E4971DCDD559F9B25.udd" 913
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__0B19BA814C3FBBCF63A76E96DFCA9C959169DFE2.udd" 914
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/P_Sparks.uasset" 915
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 916
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/P_Fire.uasset" 917
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 918
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 919
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Audio/Steam01_Cue.uasset" 920
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 921
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Metal_Gold.uasset" 922
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 923
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 924
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Metal_Copper.uasset" 925
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 926
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 927
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 928
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 929
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 930
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Ground_Moss.uasset" 931
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 932
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 933
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 934
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 935
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 936
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 937
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 938
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 939
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 940
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 941
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 942
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 943
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 944
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 945
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 946
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 947
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 948
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/P_Smoke.uasset" 949
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 950
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__A11E6ED288A5C9C5E553CE43FE45728ABBEF933A.udd" 951
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__702B3488C4A8118A1FF835D4ACE6AC94E3674012.udd" 952
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__BE98BA959FA50D699EF6F3DC8801CC3DD788BC4B.udd" 953
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__DE0BDD4890599A154A315ED5EACCADF407B25B03.udd" 954
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__345F7BA2E497068D5A9EEFC20381BFABD9602478.udd" 955
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_0FB5F6974A1E1974F02BDF98F97A7__8C2D5A49FB9B8D4C79D135B7272B0836F76DC28A.udd" 956
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 957
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 958
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 959
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 960
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Stand_To_Prone.uasset" 961
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 962
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 963
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 964
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 965
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 966
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 967
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 968
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Reload_Pistol.uasset" 969
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Prone_To_Stand.uasset" 970
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 971
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 972
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Prone_Idle.uasset" 973
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Prone_Fire_2.uasset" 974
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Prone_Fire_1.uasset" 975
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Prone_Death_2.uasset" 976
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Prone_Death_1.uasset" 977
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 978
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 979
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 980
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 981
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 982
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___CCD6E05ECAD5F0235F32C56F59ADDD9EF20BD78C.udd" 983
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___579435DEF93BD27FB9394C680E47585BD2604483.udd" 984
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___047ECB8D6558C12BDE51E64E0A764E54A888C6A1.udd" 985
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___FD1CB17123F06E371A94FB38BF9F273F17629837.udd" 986
+"../../../../../P4_Helix/BlueprintScripting/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 987
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___E37EDEC3EBB01791722A1AD911CA52C77630200D.udd" 988
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___77075439E7B32DD80E54FFE1ECE2408B17104FCA.udd" 989
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___E17C23DC5322473FD3E3848854DD456303CC05E6.udd" 990
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___C281E3488D4B3B41B4B0517185185E1AB64B459E.udd" 991
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 992
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 993
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__8E2FC270A83530AAE29D3C869E69B22AFF7C1673.udd" 994
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__B20642CDEA7F1FE87AC28BE218CE08CCB8FDF9B4.udd" 995
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__F10C01D46FDBAD3F916A3BC64FEFCCF05A2111EE.udd" 996
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__13E1F6957CCC93B6D7BABEAD1BDAA633CD58523C.udd" 997
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__85B325AB2B0DC5F75C486658B166458BFC76B590.udd" 998
+"../../../../../P4_Helix/BlueprintScripting/Content/AnimStarterPack/Showcase.umap" 999
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1000
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1001
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1002
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1003
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1004
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1005
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1006
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1007
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1008
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1009
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 1010
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_1AEC0BFB48001A5FC5A7B0B539662C1D__1_0_13123_0.udd" 1011
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_F0D4600B45C99DD05DF63C82A2EB0841__1_0_13123_0.udd" 1012
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_2BAAB3924EFEB6FB329E5F94A6601656__1_0_13123_0.udd" 1013
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_ED4C860D4AAB76FA3247D0881E9681E3__1_0_13123_0.udd" 1014
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C8398E7C4A33F059A2560D97D9C06C19__1_0_13123_0.udd" 1015
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_06603A644ED85F6220E932A04B6C13E0__1_0_13123_0.udd" 1016
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4C2FE0DB4E3F895B236F81B3AB339E24__1_0_13123_0.udd" 1017
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_E5922F8B436444EF85DF23A32E0D6C67__1_0_13123_0.udd" 1018
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/2/REFL_ENC_96DFC022836B48889143E9DF484C3296_67DFB71A47344173E9626D883B6DF599.udd" 1019
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_59352EF2401F69EDBC1F8F9E7C52E__6D073794F7F09243000377D575052EF238675627.udd" 1020
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_169659814050FC5A9C8AC1A82041A__2F9591F0E51944806840A791448DF951F57061DF.udd" 1021
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_33EC53BB489C3264881E7A9065B7C35C__6BECEC292E6C49BC66F8E5D0950F0A07E7FED9B9.udd" 1022
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A095AE0A429DA9E6BB52A5A95DBDDE42__D7D3B2D9EFB44BF77B1DF7A93E690FE3B9A07F9F.udd" 1023
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_169659814050FC5A9C8AC1A82041A__C975A851A4A8FFB1AA4AFEFAB97BC6E2EDBBF031.udd" 1024
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_33EC53BB489C3264881E7A9065B7C35C__964C33475C0E9F419074409CB768FFBF8689DC56.udd" 1025
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C113B92F492BD9C6FFF2A392185D2__B70D0F703225BF4F5CD3674425F9ED25775A93DE.udd" 1026
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C113B92F492BD9C6FFF2A392185D2__BFC13CE151A553931CFCCB1B3A6225A5146818F2.udd" 1027
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_33EC53BB489C3264881E7A9065B7C35C__38A0F772A7A7D21B5D8E37A519E6A8D547030567.udd" 1028
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_33EC53BB489C3264881E7A9065B7C35C__55023D0B0A59D542C6A799CD3BA4E8A61DE13ACA.udd" 1029
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_169659814050FC5A9C8AC1A82041A__D9D55B65C037D96AFED953DBFD754D2A6F559A4D.udd" 1030
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C113B92F492BD9C6FFF2A392185D2__97C2E28BB941FA7EB11B0128261EFF998466B78F.udd" 1031
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B5C5779B4C3D1BAA3FCBEC8C573FC__42AA4FD89A371D635D1F2E6BDB8C899E4B7458AC.udd" 1032
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C113B92F492BD9C6FFF2A392185D2__052E5BE3FC5BF851D7856C46A12A2B2D6FAA83FB.udd" 1033
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_169659814050FC5A9C8AC1A82041A__03DB2E8E629BF3B645D32FFB6339FF08424E66FC.udd" 1034
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_F00EBDEB4DAD4922ECC664AAA317E57__0CE29502FBACFA3A3FEB0D436BD39DAB465DFB45.udd" 1035
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_B8809CFB487975B142CA47B6590A1C1__D22971E83977A495FFA5D0BE1D6BED3A4D0A0AC3.udd" 1036
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_B8809CFB487975B142CA47B6590A1C1__F0DDE1CE0FC01AF901ED0B9BB1E0BBE9627A6714.udd" 1037
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_B8809CFB487975B142CA47B6590A1C1__B6976795264A5AC7066983CF79CF649E9F0F2385.udd" 1038
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_B8809CFB487975B142CA47B6590A1C1__26F4BFEB593F69E1C57ED7F66837CE370074CC28.udd" 1039
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 1040
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1041
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1042
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1043
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Metal_Steel.uasset" 1044
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1045
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1046
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Metal_Rust.uasset" 1047
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1048
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1049
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1050
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1051
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1052
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1053
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1054
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1055
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1056
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1057
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1058
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1059
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1060
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1061
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1062
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Water_M.uasset" 1063
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Water_Lake.uasset" 1064
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Tech_Panel.uasset" 1065
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1066
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1067
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1068
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1069
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1070
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1071
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1072
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1073
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 1074
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Rock_Slate.uasset" 1075
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1076
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1077
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1078
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1079
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1080
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1081
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___19CCE0FD4B2FDF5E2EA4F6EAA40792C358182154.udd" 1082
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___8CBE039F0D5D1A9A977134DBD727C12AD491F186.udd" 1083
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___EDCC82382D15B78A237375D9D5431220FB8FF3C9.udd" 1084
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___3896EE339C18D40C476DA5975F1B5536A301BCFC.udd" 1085
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1086
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1087
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1088
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1089
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1090
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__096A4BE7EEC910DD9C612B787D256747031860AD.udd" 1091
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__55176F1C899CA372E319381F3531F7EB1D7882E1.udd" 1092
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__C8D96FC94617D09B466089B8CCF1C5667A73B1E9.udd" 1093
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__B89A801292B57490895F3D0BFB0C125CC88270F1.udd" 1094
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1095
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1096
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1097
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_5BE4CFAD41695D8716046B86B3F8B1B7__1_0_13123_0.udd" 1098
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_9A15AC244EEF765FB3E1B6B7548426B4__1_0_13123_0.udd" 1099
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_B129C50B4487DB5D3DC81FA084991A64__1_0_13123_0.udd" 1100
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_5C6A4E1B45D13D4D35F5959FEE14B2E7__1_0_13123_0.udd" 1101
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_631B25BA435E9AB70F38CA9D18744E2F__1_0_13123_0.udd" 1102
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_061DA2574378656EA8DB7780FB345__E091E579A17D91B5BA11D535ACF4784BDEE69CB0.udd" 1103
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9118A1C74EEE39AEA5F02DB2D49C8__F12823366F823191312445B5F48FE6CAAF8D085F.udd" 1104
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_061DA2574378656EA8DB7780FB345__55D3EEFEF1AEF5BAEB07C9936C79BF96E31D032D.udd" 1105
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9118A1C74EEE39AEA5F02DB2D49C8__D5ABD39A12C04CF0F1479A2D328F40277FE6F52E.udd" 1106
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B128101145E7758006BD7D9CFB71C__36DE4BFCEB5D38993464FDA54C046597774F7149.udd" 1107
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B128101145E7758006BD7D9CFB71C__76C3034C67053D4AFE5A12AEBAD045EAAAFF5584.udd" 1108
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_061DA2574378656EA8DB7780FB345__E496A59A22EC0B59B261B90A9B3040A894757425.udd" 1109
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_061DA2574378656EA8DB7780FB345__744152192A6DAE11D7515713F2017806323C08D3.udd" 1110
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_061DA2574378656EA8DB7780FB345__82B960C169A8496B54315D336560F29264777736.udd" 1111
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_061DA2574378656EA8DB7780FB345__F93A8D14ECFDD908026C2B07CC072D07ABB2D435.udd" 1112
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E3F21B74465DE53EC7CFB587F3DEE__11B0F91B405FBBAC5F6BB5A59A7C9353DA971E0C.udd" 1113
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E3F21B74465DE53EC7CFB587F3DEE__765117FE66EEFDA25E14CBEEFDCA32E09A3EB173.udd" 1114
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9118A1C74EEE39AEA5F02DB2D49C8__3C9BD97849205E58B3B269C9AE5ECE5CCEB857AC.udd" 1115
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9118A1C74EEE39AEA5F02DB2D49C8__2B322437F64EF9ECB49E30FAC2457CF759D5651A.udd" 1116
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9118A1C74EEE39AEA5F02DB2D49C8__E36494C0B9D56D177316CC55E9DA750330ADBDF6.udd" 1117
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9118A1C74EEE39AEA5F02DB2D49C8__A1FE716E0CBE530760579B6F220B1378586FFA07.udd" 1118
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2C15C0C34010D97E5765CD8F90997__39502FD1779E2A29BD911AA2A97EE25C5925ACA5.udd" 1119
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2C15C0C34010D97E5765CD8F90997__01B540630706EA20408FF1D618D20C21539B0DE0.udd" 1120
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B128101145E7758006BD7D9CFB71C__32815DB5C40008D509E6F017DB1542B486E88100.udd" 1121
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E3F21B74465DE53EC7CFB587F3DEE__B1D91A342BF8EDF5997B7C644F2E780ED893BE06.udd" 1122
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B128101145E7758006BD7D9CFB71C__CBBF0855904E8A049FCB45FF4E448C08E952EE91.udd" 1123
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E3F21B74465DE53EC7CFB587F3DEE__DED095C82284B40CC446D9A5F5308D8990B607DC.udd" 1124
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E3F21B74465DE53EC7CFB587F3DEE__567A4DF457588E3C0197FB131C72D22BC3F84A4F.udd" 1125
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E3F21B74465DE53EC7CFB587F3DEE__6E63E06337219326B6A1E7AA6FA676615598BD44.udd" 1126
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B128101145E7758006BD7D9CFB71C__FA29029E561B48268FE436BAAA15735E0D7CD516.udd" 1127
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF0AC774151872737B961B467605__D59FB086870B73BC9CD128D755B1B860172519E2.udd" 1128
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF0AC774151872737B961B467605__89E4DF8B1601C53C2995F8413E19BB5A42DED3D4.udd" 1129
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B128101145E7758006BD7D9CFB71C__D149DEADA8AFD9633BA7B44309F709AFC2734DE1.udd" 1130
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E94752DC45A96E6A7D76D8B356326__1AC4FB13F34EE6EE098C177AB74FD9BFCBB62DFF.udd" 1131
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E94752DC45A96E6A7D76D8B356326__D41464A5ADB3C38326FEEA0891358708FD9433AA.udd" 1132
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF0AC774151872737B961B467605__98DF7091EB5B7AE7F2C12CB778FECCA806E2FD48.udd" 1133
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2C15C0C34010D97E5765CD8F90997__587037E3B72FC70AB5758C682333400256D599A5.udd" 1134
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF0AC774151872737B961B467605__B13D43B640E2AB30B194B3F5FCD28E1DC37E6AAB.udd" 1135
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF0AC774151872737B961B467605__933081BCEA30421E3EA516D239E44D62B8954D50.udd" 1136
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2C15C0C34010D97E5765CD8F90997__1594F7861017EEFE9D901EA86AFDF0CFB102AB58.udd" 1137
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6EF0AC774151872737B961B467605__D8E0EC0ACFEE632AB0B8BD35122D83495BA7A47B.udd" 1138
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B724A4C147326C595E8DD8B0DC72D__DDDCF5E8115DD10FC6F081B6986C07470D856398.udd" 1139
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2C15C0C34010D97E5765CD8F90997__F3F03CCDCB2E51347F460A102096247F7FDABCCB.udd" 1140
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B724A4C147326C595E8DD8B0DC72D__3D55DD8079C42A89460B9185B6EFDEDD59415C47.udd" 1141
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2C15C0C34010D97E5765CD8F90997__DDAAC85D80E2A15F88B7FA6182D0261C658D01CE.udd" 1142
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B724A4C147326C595E8DD8B0DC72D__BB531A369D6E0D7BDAFFA84DBCACA284111D2953.udd" 1143
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EA2039C4442559FF6206E6A110508__B7FB624F70CDEB5CDCAF56C5D68DBAA3160925A1.udd" 1144
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EA2039C4442559FF6206E6A110508__FF340F002A9AD2C1E56D02C8F84F689249597BF3.udd" 1145
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A046B77344E29F817B5E2EA92A8BF__CDD7F267B933658E6FC1B4A2C95DA312BE473369.udd" 1146
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A046B77344E29F817B5E2EA92A8BF__5828C4E6978B94FCC832BE2FBE1FCEE887B3BA48.udd" 1147
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E94752DC45A96E6A7D76D8B356326__F023E19F05900300EB592D99FA0612530EC645D7.udd" 1148
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E94752DC45A96E6A7D76D8B356326__5609D205D82B551383C5AFA907175DF799B6BCB4.udd" 1149
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E94752DC45A96E6A7D76D8B356326__69FC77529EC307107BBB95B1E241CB6B8882741E.udd" 1150
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EA2039C4442559FF6206E6A110508__A00D2F6034D2779E3B2F1A6D9E65CCAD19EEE86B.udd" 1151
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E94752DC45A96E6A7D76D8B356326__D1AD2477CB19B688EEB0939A7751CA536713CEC8.udd" 1152
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8B346D604194D5ACEC56A19B15104__3998CB1EAB677A72E8BDBB2C29BB120C7E593747.udd" 1153
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8B346D604194D5ACEC56A19B15104__2AEF103BA3CD5DE79F89A52A45D92370180E72B6.udd" 1154
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A046B77344E29F817B5E2EA92A8BF__D07345FA32FF53A9D39AE7F91D9849D2EC8CBEC3.udd" 1155
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A046B77344E29F817B5E2EA92A8BF__DE17406DD521CD107AE2ADBBE6C1C1C8D9861843.udd" 1156
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A046B77344E29F817B5E2EA92A8BF__47EF375AEEFE8E1C605B37903AFE7A700E139A9A.udd" 1157
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A046B77344E29F817B5E2EA92A8BF__8E715846B99809E28E27CD14433FE5D9E2B25964.udd" 1158
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1CB78E2B41D78CBE4285F188821CB__607ED473557B3EEEE39487E1A5AC91CDB042021D.udd" 1159
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1CB78E2B41D78CBE4285F188821CB__8BDF8DD6488CF3FCCB59CB6781C12BD5A3E2CB5B.udd" 1160
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EA2039C4442559FF6206E6A110508__870E6E7E498A283A777B31EFEA0F3F6B2F2EF348.udd" 1161
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EA2039C4442559FF6206E6A110508__EC3234DA0E537776C603A4807A6F323D08BDC46F.udd" 1162
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8B346D604194D5ACEC56A19B15104__414CF255B7CF7421ED31CF383FFC6E6E3CD21A31.udd" 1163
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8B346D604194D5ACEC56A19B15104__F9C433875F0258DB969F0EF282D76E143D036515.udd" 1164
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8B346D604194D5ACEC56A19B15104__5D8156D42F6EA4734CDEAEDA4EB1F2EE82CF35E0.udd" 1165
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8B346D604194D5ACEC56A19B15104__268B17A6BF25935364E7225C356C9C13EAA9F03E.udd" 1166
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E12A8D444B2A3DC9EAE84882904FD__1BC98A8D99F344A1C0DB3F4AF106B1C7CD9FA125.udd" 1167
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E12A8D444B2A3DC9EAE84882904FD__4B11571767EDCEA1FDACF00F9636B65D7ACB8476.udd" 1168
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EA2039C4442559FF6206E6A110508__0F87307B7BF807B82825DC47F69F58F532591F31.udd" 1169
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2FA8C3F841A09096B1F9248C9CC76__46567F8895A41914806D75247A184A18B20EFE1C.udd" 1170
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2FA8C3F841A09096B1F9248C9CC76__6A7DFB66BE043F5B5FB91E8BE33EAA282C710BC4.udd" 1171
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1CB78E2B41D78CBE4285F188821CB__F06F96D1B99C342A46F7B4AFDD12B5547A91D62B.udd" 1172
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E12A8D444B2A3DC9EAE84882904FD__5E83865C404F1C7CBC34748BDB937096870AC3EB.udd" 1173
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1CB78E2B41D78CBE4285F188821CB__78345988C711A11D195A6A9E68F22DF4A4173509.udd" 1174
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1CB78E2B41D78CBE4285F188821CB__E3997A564C65EC3981A76AA8E3620A1C4C663EED.udd" 1175
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1CB78E2B41D78CBE4285F188821CB__C0169C131AA84DCA3A6B78286F565BBB73A2F08A.udd" 1176
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_27D078134609D29AD3B02FAC2A5D8__93C50C70867AA8E5F877C01B6545E8509C558D79.udd" 1177
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_27D078134609D29AD3B02FAC2A5D8__9A0D37E515B46ECC27D1323C213D981E1EC00AC2.udd" 1178
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E12A8D444B2A3DC9EAE84882904FD__CD7A447FB4B8544F09C1CD43411D79BB73A0F1BA.udd" 1179
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E12A8D444B2A3DC9EAE84882904FD__6714EC548BB93459C02238E125AB64A4AF2CABD3.udd" 1180
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E12A8D444B2A3DC9EAE84882904FD__F4C26D40C805E7E6B145F47EA1522A22495408AE.udd" 1181
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_14B9C06C4C1869B522AE99B7833DD__601B24691A9217A43904B671D70884EB10D75F6B.udd" 1182
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_72180564467E5C1F33E463B6BFABA6CA__E6D8F01EA70ADBCD65179C761C0CD16955A39C49.udd" 1183
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_72180564467E5C1F33E463B6BFABA6CA__B0964DCE38969A8C4F80284D09A48DF00661A162.udd" 1184
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_72180564467E5C1F33E463B6BFABA6CA__7CA93C877D35F4FB83613768BCD8DBE95401D3A3.udd" 1185
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_D9296B344D86386B684DA7B11915E306__32E8592885ED5D7ABB8A087389202141BDD3C39F.udd" 1186
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_D9296B344D86386B684DA7B11915E306__AF07B5D809968306AE065A901F5522093A2E70AF.udd" 1187
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2FA8C3F841A09096B1F9248C9CC76__7224B031967C27F63D4D3067A48D49A5B0055AD7.udd" 1188
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_D9296B344D86386B684DA7B11915E306__94127BAF3458CD5160D7AC85F9EE0A77A801E1E5.udd" 1189
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_D9296B344D86386B684DA7B11915E306__BF464E2886ACF6053F7AE74C4A69FF6B199F8D4E.udd" 1190
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_D9296B344D86386B684DA7B11915E306__F0BEF4D68A088AB149B0C5738894A2543E6ACEA1.udd" 1191
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_D9296B344D86386B684DA7B11915E306__5A9F64BECE8DA9A4397F6DFA47472C1E45C7CB52.udd" 1192
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_EA5E4085402BFF7A9EC623852EBC3337__39C5FB410DE947FCBB6E49FB958CFDBA7CA17D90.udd" 1193
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_EA5E4085402BFF7A9EC623852EBC3337__62DD4D501CF401B8074FB7991EB17F7861D8A422.udd" 1194
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2FA8C3F841A09096B1F9248C9CC76__6F72EBEE668CB3BBE63A51E7220AD94C939BB842.udd" 1195
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2FA8C3F841A09096B1F9248C9CC76__1DF0F25D25ECE9A53D7680533FFB6E8F8C928996.udd" 1196
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2FA8C3F841A09096B1F9248C9CC76__C0378EC582AE94A1027422F3245E653FEFD5DD6D.udd" 1197
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_448600924F6DF5BBEDD9E083A505B299__E2CDEFDE06087C4DB22F23C4575E4AA49B1D12CF.udd" 1198
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_448600924F6DF5BBEDD9E083A505B299__E07A24A62698442B281F4D09208052082EC7E1EC.udd" 1199
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_27D078134609D29AD3B02FAC2A5D8__673DC6B59610A2E236B35F209E18604596CBD73E.udd" 1200
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_448600924F6DF5BBEDD9E083A505B299__23DEDA1C6E9BABE108F6EF7F6BFED986BB0F41CF.udd" 1201
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_27D078134609D29AD3B02FAC2A5D8__479F476D036F23F1948AE32DBA9A1712C1F83983.udd" 1202
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_27D078134609D29AD3B02FAC2A5D8__3DD3093D6F8CCB83B5DCF4DB924DA79C4686F74C.udd" 1203
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_448600924F6DF5BBEDD9E083A505B299__5C0A7F1A5E10F6C1C51D73F629FAF5D723BD2344.udd" 1204
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_27D078134609D29AD3B02FAC2A5D8__38D913831D0AE28C51CEDBDF98751220388AE503.udd" 1205
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3A4648CE46A0689FA53838B3DFC8E76C__5CEFA74C642B921B394DC8EE79BEEC70EBA89153.udd" 1206
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_448600924F6DF5BBEDD9E083A505B299__37F9BC9633F9DCA9D4A91676FE5ECA89810AD9DD.udd" 1207
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3A4648CE46A0689FA53838B3DFC8E76C__84F012ED2E3C56365D194B146DEEEFF5B581F434.udd" 1208
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_448600924F6DF5BBEDD9E083A505B299__991F3349DCDBE6B693828FCC2539AB86159B592B.udd" 1209
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_089F4BF3441A7F70D8E6CEABEA68208C__F4E64E6FB8F14CEA8DA8669E5D1B232DDD76DB51.udd" 1210
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_089F4BF3441A7F70D8E6CEABEA68208C__6EEB6B3BA04DF5315637E740CE807D11419ACAE2.udd" 1211
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_EA5E4085402BFF7A9EC623852EBC3337__48FFA36613CCAFF998D03851570C81958104E182.udd" 1212
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3A4648CE46A0689FA53838B3DFC8E76C__C0EAA4D0106A079F2FF81EC08FD507E38D9AE3F8.udd" 1213
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_EA5E4085402BFF7A9EC623852EBC3337__C59177D0B82F6AB4D0630BDCF82D6EE7019D003D.udd" 1214
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_EA5E4085402BFF7A9EC623852EBC3337__EF73F5C321F83A0DE9548B883EE5CA8FE035ECDB.udd" 1215
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3A4648CE46A0689FA53838B3DFC8E76C__8B6B131B1E0560B9C79442E84890B800FE9F206A.udd" 1216
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_EA5E4085402BFF7A9EC623852EBC3337__9181EF3123F6401B1A8459C479C4CC41E4DE5B48.udd" 1217
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3A4648CE46A0689FA53838B3DFC8E76C__55EFD2C06B8FCFFAB5F2AE71ACD9CC9229EB95D7.udd" 1218
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_66DA3EF24F699D59FF088EB486A034F9__E9EEC1F778A2E9E75160422DAD66E4FDA22F1B24.udd" 1219
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3A4648CE46A0689FA53838B3DFC8E76C__64790AE76D5F3063DEE0D7F31ADEAA094EF068C7.udd" 1220
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_66DA3EF24F699D59FF088EB486A034F9__BBDB482338ACEF4CA257C6E235692B2E7B7BD3B7.udd" 1221
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_FD6C0FE44296D034AA503283F2B996B5__261D274595AE278AC465C025C7BC5C9539FE86A9.udd" 1222
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_FD6C0FE44296D034AA503283F2B996B5__3EDC5364C350473A099A47F904692F6CAA0429F4.udd" 1223
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_FD6C0FE44296D034AA503283F2B996B5__CEA2EE8A88904C32BA2F2A285F79C82F24F00C40.udd" 1224
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_66DA3EF24F699D59FF088EB486A034F9__A31A6982BF00D270D204CBF04FA1C63EE9609C7E.udd" 1225
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_FD6C0FE44296D034AA503283F2B996B5__5A0981F8AE6EFA10924CA086661EA7C35553221B.udd" 1226
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_66DA3EF24F699D59FF088EB486A034F9__F1E3F2DFEDCF764E9E8E175E6F1C2447888C6D6A.udd" 1227
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_FD6C0FE44296D034AA503283F2B996B5__565DD47FE96ECB0E4CC02F451AC8A5F236FEA3E2.udd" 1228
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_089F4BF3441A7F70D8E6CEABEA68208C__04B7D6CC860AFDA4BD7F7304480F98D1D231EB0C.udd" 1229
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_FD6C0FE44296D034AA503283F2B996B5__2371A0A5641ADB81059EEDB0606A37C59E5E1326.udd" 1230
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_66DA3EF24F699D59FF088EB486A034F9__F73A17D8A1C6BE66EC9B35CC0AF1A42DFA536829.udd" 1231
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_DEC147624B0617406DFC7F897F427C94__D276C65CB339B1AFDF7BCDF028B97E250A72C999.udd" 1232
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_66DA3EF24F699D59FF088EB486A034F9__B0DB0AB096A43EC5D548C11DD7FAF49E9E0A3568.udd" 1233
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D323F1DF4E4782DBE56E7CBBC7A1C637_0__1D40024F026C539868EB0A182745A05342E62BAE.udd" 1234
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_665CA30B471B8356BBECB0BA3E72DE16_0__C6DA99D22A3658B3302A42160618474FD8C71BCF.udd" 1235
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_089F4BF3441A7F70D8E6CEABEA68208C__D009284E50A8FC4F8B10E68146CD00E4BC14D129.udd" 1236
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D323F1DF4E4782DBE56E7CBBC7A1C637_0__4BB60DCF1C20E5B2358CD941DE0EB84DA5196D66.udd" 1237
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_665CA30B471B8356BBECB0BA3E72DE16_0__5D2194C96C92504A237C914AE60D2D6043C0ECAD.udd" 1238
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_089F4BF3441A7F70D8E6CEABEA68208C__B009ECA5B3D307B774131B6D5C0C22B4337E9061.udd" 1239
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_089F4BF3441A7F70D8E6CEABEA68208C__105A1F03145DCADC92C315CD02ECF5E272D45C5D.udd" 1240
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C67199124AD29942F95197B1DC37B94E_0__29873771484C2003041A3E17442637160413A02D.udd" 1241
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C67199124AD29942F95197B1DC37B94E_0__FD11593BF1C7F2291282439D919CABB7685148D0.udd" 1242
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D323F1DF4E4782DBE56E7CBBC7A1C637_0__F780DBD0051D8B564794AFFFB221E1F5854E2734.udd" 1243
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C67199124AD29942F95197B1DC37B94E_0__5084193E18AFE909F2091DFA4A92910AC38E549C.udd" 1244
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C67199124AD29942F95197B1DC37B94E_0__71DB46633C1FD2DB5A046B4582BC0319DC2AD4AF.udd" 1245
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D323F1DF4E4782DBE56E7CBBC7A1C637_0__0B94DB402238DD741C85A32636151ECF2B4A1AE4.udd" 1246
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C67199124AD29942F95197B1DC37B94E_0__8F1E155F646381DA62D0C3AA46DFD767C7C58BC6.udd" 1247
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D323F1DF4E4782DBE56E7CBBC7A1C637_0__D5224422C0317AAF64B5067BC6C61903460B6761.udd" 1248
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C67199124AD29942F95197B1DC37B94E_0__ADB4BC13E84DBD6B577AD278E38A3C5C55D81744.udd" 1249
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D323F1DF4E4782DBE56E7CBBC7A1C637_0__D9A21F74D42EDA9B1DECE6DB73A54C66940DBB25.udd" 1250
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_85DC1818445F94BFCEC3B4955B291E94_0__603F474E51BC80ADEA60BF0C519E67B1EB73B2BE.udd" 1251
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_DC068D43493679195D0876A52A727920_0__F11DBFA7FFFE2273B179FCB49DACEE6D1425EA2C.udd" 1252
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_85DC1818445F94BFCEC3B4955B291E94_0__DA66FE1C86F3751D0C01F0D051D4E9F0BE7A8A8E.udd" 1253
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_DC068D43493679195D0876A52A727920_0__254FF99DBB84DB424887054DEDDA65252EC820D7.udd" 1254
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_665CA30B471B8356BBECB0BA3E72DE16_0__A0FBEB739E7E0E77648989EA5F823F295DBF4E05.udd" 1255
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_665CA30B471B8356BBECB0BA3E72DE16_0__7932205D0BF9A734198C1E5B243A8758A2F9456E.udd" 1256
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_DC068D43493679195D0876A52A727920_0__2722D7B25FBF4C1334E1428D314AE8EE5C61B565.udd" 1257
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_665CA30B471B8356BBECB0BA3E72DE16_0__FB6BEECF6FD9BEBDACD5146D37947CF35976612F.udd" 1258
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_665CA30B471B8356BBECB0BA3E72DE16_0__528DE8C3A1F13832E1EF25176C409DAEC44B356C.udd" 1259
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4B8FD8C14D412026BB99E5B8D083E972_0__095A29A55A5FB355A080B5315A89395ECA755C4F.udd" 1260
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4B8FD8C14D412026BB99E5B8D083E972_0__EA92EA96DF6F45FFD731CDAB97CEA7A5AB53AF7E.udd" 1261
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_DC068D43493679195D0876A52A727920_0__5637D42F53E07F8B60A9475B3BC25012FC82349F.udd" 1262
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_DC068D43493679195D0876A52A727920_0__46F8B5721DB2C9BFFB0A30C0ADEECF4B4C8EAAD8.udd" 1263
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_DC068D43493679195D0876A52A727920_0__AD3B3456E7A3C62EA595C6CC678F2C32F7EDDA2E.udd" 1264
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_AE5FE1F34C5F7C35E18A6FA9FFD9EBFA_0__2B9A611E2B2B58AFC8976431CAC59E1AB65E9F9E.udd" 1265
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_AE5FE1F34C5F7C35E18A6FA9FFD9EBFA_0__D54E407297EA3EEDC9496E050208F18DF46675F3.udd" 1266
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4B8FD8C14D412026BB99E5B8D083E972_0__951E695967BD66EA47E146F5F0C8EEBEF356A9D2.udd" 1267
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_AE5FE1F34C5F7C35E18A6FA9FFD9EBFA_0__4A3E45ED5EF04142D67DC95A43E65A5CC8A7B8A8.udd" 1268
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_FE4076CC464D89D327A021A24A8E3EDB_0__3E54787DBAE3EC330891F3232D3F9FA757549403.udd" 1269
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4B8FD8C14D412026BB99E5B8D083E972_0__23106572923C0BE8D9EC1443F2FB08D1796A579F.udd" 1270
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_00E028084CFF4B611EF8669CE285EDAA_0__C0B31222ABCAD6140F2E609ABEE68167DEACBAE2.udd" 1271
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4B8FD8C14D412026BB99E5B8D083E972_0__6DC9EDCC088D87E51D82B460C993F487F158164E.udd" 1272
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_00E028084CFF4B611EF8669CE285EDAA_0__BB5D8BFB77D0784E215BCF9DC4A24E7B1DF78C9E.udd" 1273
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_4B8FD8C14D412026BB99E5B8D083E972_0__E016BDFF71CC849136DA99CCE750983D42FB6231.udd" 1274
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6322CAC741384CC365E38094225288B1_0__9EFA4F85AD7A65B296F917D6924ED7DF870B0BB2.udd" 1275
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6322CAC741384CC365E38094225288B1_0__93FBE166D70B4112516AE673AB552AD54629AFB5.udd" 1276
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_85DC1818445F94BFCEC3B4955B291E94_0__22DEF98DB69211563FFD58FCD44F7E6C334F6BDA.udd" 1277
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_85DC1818445F94BFCEC3B4955B291E94_0__3FF0CC78AF5064848B301EA2DD4BE15FF030CD3A.udd" 1278
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_85DC1818445F94BFCEC3B4955B291E94_0__B2C38DB072DDF0B5F1D275558B2FFEAAB6F3EF54.udd" 1279
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_85DC1818445F94BFCEC3B4955B291E94_0__80E1506B97A457CBF4D3231B1A860C91EF3C712B.udd" 1280
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A9DC562A4CF09E9DCB2EE88608E3C577_0__91FE33FC8D0E47913CB5CA01D50B9789F3BDE33C.udd" 1281
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_00E028084CFF4B611EF8669CE285EDAA_0__4B94384BCEB03EBB4213E8EBBA418D6EEDDE10B9.udd" 1282
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A9DC562A4CF09E9DCB2EE88608E3C577_0__3DB4C0F8B67C08F57C2698AFE9B57948B70991E0.udd" 1283
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6322CAC741384CC365E38094225288B1_0__A8C05CB8D01560924011297CEB3ECD0FEC756A66.udd" 1284
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_00E028084CFF4B611EF8669CE285EDAA_0__507D8ADA76EE5B46011F6F09CBA30639EEB6FB12.udd" 1285
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_00E028084CFF4B611EF8669CE285EDAA_0__581AC5C68D19C87E8AE8946AE6D103EFD2358C0A.udd" 1286
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_00E028084CFF4B611EF8669CE285EDAA_0__42FB546B51B77A04D4893866F3CFCED347361487.udd" 1287
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E57B2C2645375F29E851EA9AADC86818_0__77BAD3AB7748208DCA5CC2894E85F73AAFB14A9A.udd" 1288
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E57B2C2645375F29E851EA9AADC86818_0__D18FCC0C21A7A939E887B33732190D60C8FD6C2E.udd" 1289
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A9DC562A4CF09E9DCB2EE88608E3C577_0__A646D86AF62766A71042E5C02A59857366735B08.udd" 1290
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A9DC562A4CF09E9DCB2EE88608E3C577_0__6EA0E627EFD880DCCE1A0667E1887D01CCD78305.udd" 1291
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6322CAC741384CC365E38094225288B1_0__CB74113B2A53E3F6BAF6AC4833AD059A0AF1542A.udd" 1292
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A9DC562A4CF09E9DCB2EE88608E3C577_0__726CBF7015564AAC5DD50E4FAC970830B0A0F9BB.udd" 1293
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6322CAC741384CC365E38094225288B1_0__5AE156DD621EF8B2B0D0981714AFD5C811E705CD.udd" 1294
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_A9DC562A4CF09E9DCB2EE88608E3C577_0__C3A0C3C22BE3C2AA722E111F4EC13FA7E0687DE1.udd" 1295
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6D614BF547131F0690D2A682505C7DD3_0__E6F780FFF69482931FE8C74A371A1A19A1337902.udd" 1296
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6D614BF547131F0690D2A682505C7DD3_0__E4A9BBCA55B225CA0F7BC4440A7302412790175A.udd" 1297
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E57B2C2645375F29E851EA9AADC86818_0__EFE36A1E2A9998D550DE5745828055A134212AD8.udd" 1298
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6322CAC741384CC365E38094225288B1_0__73CC70D580E1EDE3F8A446CFB893A45D249E65C5.udd" 1299
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_3E3D69644A7E9C1F8910A6B8413CFA44_0__D309900969708C255AEDCA8DD0E11CCC6C359731.udd" 1300
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_3E3D69644A7E9C1F8910A6B8413CFA44_0__CA388941FB28FB3BED84AE27C79B3B704F438979.udd" 1301
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_3E3D69644A7E9C1F8910A6B8413CFA44_0__E782A0C39CCD176CEC69712361D52796B5BC4DE5.udd" 1302
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_3E3D69644A7E9C1F8910A6B8413CFA44_0__786DC4BF5D113AD5EB06533604FB00463EE0117B.udd" 1303
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_3E3D69644A7E9C1F8910A6B8413CFA44_0__9D482979A56F200A9374320A666FB820292F3563.udd" 1304
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_3E3D69644A7E9C1F8910A6B8413CFA44_0__5ED9D4A80F1BDD7957DA26B63353C2C9313B970B.udd" 1305
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_22A0AF4C4556D2C712B8BCBF9E161F08_0__7920571B9384CC1AAB9BA18DE2EA954F40828982.udd" 1306
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E57B2C2645375F29E851EA9AADC86818_0__58DB36E694B28646238DC9ECF60C162BA6316B39.udd" 1307
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_22A0AF4C4556D2C712B8BCBF9E161F08_0__574C4A4C8644711225EDBAA251D510E576D890E1.udd" 1308
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E57B2C2645375F29E851EA9AADC86818_0__E084DE0B13E39D6496CCAAF1264B7EF9972322A1.udd" 1309
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E57B2C2645375F29E851EA9AADC86818_0__8333ABBAC8D376568EB6D44FB478B18442CC7FF5.udd" 1310
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B0177FE64EA07BE04357DC8D901C3560_0__33F897D0AFC331410C9FCBAA39E164A7B3EF3843.udd" 1311
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6D614BF547131F0690D2A682505C7DD3_0__0054A9D94C65E68DB139FCC3473018AE01E93BBF.udd" 1312
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6D614BF547131F0690D2A682505C7DD3_0__5FDCC17BC818A26EB5CE10BFCD3718D0016FB20B.udd" 1313
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E65422AE40A3C1BAEDCC39B3686C180E_0__3F940C3BEF8A9D36F50B8D619CAE23679CFBB3B5.udd" 1314
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E65422AE40A3C1BAEDCC39B3686C180E_0__30F74817C979A89C17D0D61A0E8B0CE874CA6A7B.udd" 1315
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6D614BF547131F0690D2A682505C7DD3_0__F7B1150583A353D4069449A1D56FF38DBFB4A440.udd" 1316
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6D614BF547131F0690D2A682505C7DD3_0__53F849137B7B8FBAEDE9F670F1E943DAA7DB87D7.udd" 1317
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_22F0F94844DCC415117FD985DB3DB__43163F0BF09E511E0C839224FCB5CA4F79E0B3D6.udd" 1318
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_22F0F94844DCC415117FD985DB3DB__60E591065C2CDFE2DEE881FCFFCA272ED8DA4B59.udd" 1319
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_22F0F94844DCC415117FD985DB3DB__AA5FE61BAF188BECE8C0C648C51EAE408F070FA3.udd" 1320
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5D11546749EA3738DE6C8B8A1F258__79B0ABB6EF510B394DBAB61BC6B5EEC6E64B37EE.udd" 1321
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5D11546749EA3738DE6C8B8A1F258__37C4FF593066A749B5BB25D843F2415498080FAD.udd" 1322
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E65422AE40A3C1BAEDCC39B3686C180E_0__C2A169738CC6916970F105ADB245B68C3A73AD52.udd" 1323
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5D11546749EA3738DE6C8B8A1F258__259CF0094875930C462F60177F3023E712631333.udd" 1324
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E65422AE40A3C1BAEDCC39B3686C180E_0__27DD121501F4175749F6FB660FA36AC9B1CBCE62.udd" 1325
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E65422AE40A3C1BAEDCC39B3686C180E_0__CFB74BC4A385BC7F44317CAEEA0DC611E5F131A2.udd" 1326
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5D11546749EA3738DE6C8B8A1F258__DFE80A2082548CC7FC4F44556C17E4F46D2C27DE.udd" 1327
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E65422AE40A3C1BAEDCC39B3686C180E_0__6EC93887B67F7BBF11048B913B1573594BE614FF.udd" 1328
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5D11546749EA3738DE6C8B8A1F258__C85FB847F1B10F546B7BF6DB0D1A037FFCC327B7.udd" 1329
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E9C06DF544981EEFCC0DD4A8898B7__1C169651910085C82BEC585114389DE8A9249649.udd" 1330
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5D11546749EA3738DE6C8B8A1F258__444F17E8BF64522CACF982CA8A061A5CF74023D1.udd" 1331
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E9C06DF544981EEFCC0DD4A8898B7__70FF5FBE6B06D4E080ED5FCFCAA588E06C6747F3.udd" 1332
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_22A0AF4C4556D2C712B8BCBF9E161F08_0__FB4DCA8C8EAD8FE04BCC608939C7C76009A11343.udd" 1333
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_22A0AF4C4556D2C712B8BCBF9E161F08_0__12D4A98B4F819128FD01898588F4D4C66F5E8155.udd" 1334
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_22A0AF4C4556D2C712B8BCBF9E161F08_0__7E6B0EB4367DE10DFAD7CCC93EA80450CF24970D.udd" 1335
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E9C06DF544981EEFCC0DD4A8898B7__FC55F8CF3BA1D016605BDCE8CB97753B4DC49DD7.udd" 1336
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2989CA294A5912422B50E18935148__D91CB69F2116DFC847FE369500F528C2B7118C07.udd" 1337
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_22A0AF4C4556D2C712B8BCBF9E161F08_0__754E76A4B4FCCFD8550BC53E783AE756048E0863.udd" 1338
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2989CA294A5912422B50E18935148__FB088E6D667DE6AB621D0750EBBCB2774E8572E3.udd" 1339
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_16872930473233F7B655DC8973497__42C805F9F74BC4469CE55D94078C61B98DB4344C.udd" 1340
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_16872930473233F7B655DC8973497__1E897F394EFC8CBD4C2F9EC57B450333CAD8F907.udd" 1341
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E9C06DF544981EEFCC0DD4A8898B7__42918DBFBAEEF269FF5DCA33E6235A4FF2022979.udd" 1342
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_16872930473233F7B655DC8973497__8E32575E1E01B3AC34945FF82A94AA7E1AF320F0.udd" 1343
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2989CA294A5912422B50E18935148__A617E5316B0AD619B59C813B402846B2CD484FA7.udd" 1344
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_16872930473233F7B655DC8973497__249FEB93D0F20475043EAC7CCC158070D61AB27F.udd" 1345
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_16872930473233F7B655DC8973497__C9B4E5F6AC018258948958EEC0AFB0DE54E69FA2.udd" 1346
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_16872930473233F7B655DC8973497__5A60B195621A4F76119B104BEE108104CBADFDEB.udd" 1347
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A437B2D479CDF328674849FB13D8__4F4D0DCF2AEF3AB7C0E5E7B82A2FC1C50242545F.udd" 1348
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2989CA294A5912422B50E18935148__8E3E096C744BA2884E0163FA6C2848D7A00DF75B.udd" 1349
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A437B2D479CDF328674849FB13D8__3AC72B6E4B09D9B3DE6659519D7FBDC98888EA4F.udd" 1350
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2989CA294A5912422B50E18935148__98933AC16AF9D75E44164A5CBC1BE84723EAE80B.udd" 1351
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2989CA294A5912422B50E18935148__5133351242F39CA69396E151757DE1853FC393CB.udd" 1352
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D6E77B834D8CD7C305FCAFAA84A21__10BFF87B6670004C3FD66EB24A12A233190A2D13.udd" 1353
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D6E77B834D8CD7C305FCAFAA84A21__207D66FC2A102B8D85E760D0A2B4ED4CA7063163.udd" 1354
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E9C06DF544981EEFCC0DD4A8898B7__C6E3A2FE32D56D4EE34426E6AC12D98D2F8F6072.udd" 1355
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E9C06DF544981EEFCC0DD4A8898B7__2F84B10501A3478D67A64D990A3D6EB525DE9ECC.udd" 1356
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F3D15FFC4DD3FDF7D8020CA825D52__988894D56103982045C425B1EFF857343CDA7E35.udd" 1357
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F3D15FFC4DD3FDF7D8020CA825D52__1D31B56576325AF7EB3E8F9BB6377D342DD96E2E.udd" 1358
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D6E77B834D8CD7C305FCAFAA84A21__AE9EDC2803AA6996637F2C55B9C7AAE32559F16E.udd" 1359
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D6E77B834D8CD7C305FCAFAA84A21__3019B570646ADE01640FA85125C17AE2237D2BF6.udd" 1360
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F3D15FFC4DD3FDF7D8020CA825D52__5E36BDA257C1F0FB14E098C9930ECBDB505BD585.udd" 1361
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F3D15FFC4DD3FDF7D8020CA825D52__53B914B4F557FC5652F7FA9236A2B7C069DF0274.udd" 1362
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F3D15FFC4DD3FDF7D8020CA825D52__B581082A555511AA6FC31E746A55D54382FFAA48.udd" 1363
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F3D15FFC4DD3FDF7D8020CA825D52__C18AF97256AE34155E0D58603D4F2DE0DB172FE8.udd" 1364
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D6E77B834D8CD7C305FCAFAA84A21__43E3B17740C094EA56ABA8EC7E46042AAE530AAF.udd" 1365
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E416D9DA4872868661487594CAF31__61E152538754B6905FA2366B943ABC22FF33DCE1.udd" 1366
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D6E77B834D8CD7C305FCAFAA84A21__EDBFA562A923D1FF2357ADA927AA3C70A02DAEBD.udd" 1367
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A437B2D479CDF328674849FB13D8__7EADA6572EBB90BE0D141B1B935200837B3A3B43.udd" 1368
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A437B2D479CDF328674849FB13D8__06D53C9EDB9195F4047583A346D9E39824E8D5A8.udd" 1369
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A437B2D479CDF328674849FB13D8__EC8F3C6C1D7FC70703C7C793CBBA709C66987808.udd" 1370
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A437B2D479CDF328674849FB13D8__706BC8F2527542141942F4B0A96CCD04E8DFB538.udd" 1371
+"../../../../../P4_Helix/BlueprintScripting/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1372
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__EB3A440F78D412A264F8CF802C15A9C6B5EA5F72.udd" 1373
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__8449C2743D430F2B71A10E0A68D850546705E32E.udd" 1374
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__B78AE1ABC144311977866FC4B3D1C140C72B1A8A.udd" 1375
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__42607D1F828CA9F5CE3A42417E3FA3FD8EF954C3.udd" 1376
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1377
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1378
+"../../../../../P4_Helix/BlueprintScripting/Saved/Stats/2015.12.07-17.07.30Stats.csv" 1379
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/2/AUDIO_0002_0000_OGG_0001_632D1B9A4FC93D9537554A9FD1692204.udd" 1380
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 1381
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 1382
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 1383
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 1384
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 1385
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 1386
+"C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/9/AUDIO_0002_0000_OGG_0001_EFB94D3C4A004858214B618FCF9EA38D.udd" 1387
