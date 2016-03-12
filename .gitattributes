@@ -9,3 +9,4 @@
 # Linux machine (the default behavior on GitHub)
 
 *.bat eol=crlf
+.uasset filter=lfs diff=lfs merge=lfs -text
