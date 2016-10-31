@@ -8,7 +8,7 @@ Unreal Engine 4 is a __free__ download from Epic Games.
 ## Synopsis:
 While working on the modules from the book: __Blueprints Visual Scripting for Unreal Engine by Packt Publishing__ in order to better understand Unreal Engine 4’s Blueprint System I started to modify parts of the blueprint scripts to add on additional features that are not covered in the book such as crouching, prone, and health pickups which could be used as a template to create a basic FPS game off of this template.
 
-The basis for some of the new features & gameplay will be off of the original __DOOM__ with minor changes or added features of modern FPS games.
+The basis for some of the new features & gameplay will be off of the original __DOOM__ and __CALL OF DUTY__ with minor changes or added features of modern FPS games.
 
 ## Template Features:
 __*Features are Subject to Change.*__
