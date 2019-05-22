@@ -1,5 +1,5 @@
 ## Installation:
-You will need a working version of __Unreal Engine 4.9.2__ or above.
+You will need a working version of __Unreal Engine 4.9.2__ or above (Later engine versions may break depending on depricated features).
 
 Register & Download Unreal Engine 4.9.2 here: http://www.unrealengine.com/
 
